@@ -10,3 +10,36 @@
   width: 80%;
   margin: auto;
 }
+
+header {
+  width: 100%;
+}
+
+.header__block-left {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: right;
+}
+
+.header__block-left h1 {
+  font-size: 55px;
+}
+
+.header__block-left p {
+  width: 50%;
+  text-align: right;
+}
+
+.header__btn-block {
+  width: 100%;
+}
+
+.header__block-left button {
+  width: 40%;
+  color: #fff;
+  background-color: #6e9c9f;
+  width: 60%;
+  padding: 22px 50px;
+}
