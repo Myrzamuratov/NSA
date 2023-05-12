@@ -1,3 +1,3 @@
 console.log("hello Debili");
 
-console.log("Samat2004");
+console.log("Nurkemel");
