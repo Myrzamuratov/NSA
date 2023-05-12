@@ -5,3 +5,8 @@
   text-decoration: none;
   list-style: none;
 }
+
+.container {
+  width: 80%;
+  margin: auto;
+}
